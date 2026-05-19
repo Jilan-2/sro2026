@@ -10,3 +10,7 @@ Link video:
 [Tugas 1: Simulasi Kinematika Forward P3DX](https://youtu.be/uk1PtFa0BbI)
 
 [Tugas 2: Simulasi Spatial Plot P3DX](https://youtu.be/bZrZ1MfFcTs)
+
+[ETS: Sepak Bola](https://youtu.be/5ZyPkKwZ0nU)
+
+[Tugas 3: B202 Exploration Simulation](https://youtu.be/PLGUo8JvV7o))
