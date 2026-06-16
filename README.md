@@ -13,4 +13,6 @@ Link video:
 
 [ETS: Sepak Bola](https://youtu.be/5ZyPkKwZ0nU)
 
-[Tugas 3: B202 Exploration Simulation](https://youtu.be/PLGUo8JvV7o))
+[Tugas 3: B202 Exploration Simulation](https://youtu.be/PLGUo8JvV7o)
+
+[EAS: Disc Navigation dengan Obstacle Avoidance terintegrasi LLM](https://youtu.be/GtE6adYKbfA)
